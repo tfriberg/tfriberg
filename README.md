@@ -1,4 +1,8 @@
-## Hi there 👋
+Founder, CEO, CTO, and CFO of [Design Pending](www.designpending.com).
+
+Self employed freelancer, helping clients primarily with **UX design**, and **information architecture**. Should that be what they need. Sometimes I also do the odd **UI** and **print** designs, should the client's need arise.
+
+
 
 <!--
 **tfriberg/tfriberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <p>
-<a href="https://www.designpending.com"><img src="./assets/dpg_logo.png" alt="Design Pending Logo" width="100"></a>
+<a href="https://www.designpending.com"><img src="./assets/dpg_logo.svg" alt="Design Pending Logo" width="100"></a>
 </p>
 
 

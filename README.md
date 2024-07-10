@@ -3,7 +3,7 @@
 </p>
 
 
-Founder, CEO, CTO, and CFO of [Design Pending](www.designpending.com).
+Founder, CEO, CTO, and CFO of [Design Pending](https://www.designpending.com).
 
 Self employed freelancer, helping clients primarily with **UX design**, and **information architecture**. Sometimes I also do the odd **UI** and **print** designs, should the client's need arise.
 
